@@ -12,7 +12,7 @@
 - Documenting analysis and lessons learned
 - Understanding how systems **fail and get abused**  
 
-## 🖱️ Skills
+## 💻 Skills
 **Web Security**
 - Analyzing web application behavior via HTTP traffic
 - Discovering endpoints and application logic
@@ -36,12 +36,12 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Autopsy-FAB31B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/volatility-5A5A5A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FTK+Imager-CF00A2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FTK%20Imager-CF00A2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/zsteg-9200BA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/binwalk-2E3440?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ghidra-FF5029?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IDA%20Pro-C90606?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/John+the+Ripper-008000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-008000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Feroxbuster-BD0012?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OWASP%20Juice%20Shop-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
