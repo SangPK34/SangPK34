@@ -24,12 +24,12 @@
 - Using common forensic tools to support investigation 
 
 ### 🛠️ Tech Stack:
-#### Languages:
+**Languages:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,linux,windows,bash,powershell,github,git&theme=dark" />
 </p>
 
-#### Tools:
+**Tools:**
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-0055DE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/nmap-BD0012?style=for-the-badge" />
@@ -48,7 +48,7 @@
 </p>
 
 
-### 📈 Activity
+### 🧑‍💻 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/SangPK34/SangPK34/output/github-contribution-grid-snake-dark.svg" />
 </p>
