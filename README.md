@@ -23,7 +23,7 @@
 - Log, memory, and network traffic analysis
 - Using common forensic tools to support investigation 
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack & Skills:
 **Languages:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,linux,windows,bash,powershell,github,git&theme=dark" />
@@ -48,12 +48,20 @@
 </p>
 
 
-### 🧑‍💻 Activity
+### 🧑‍💻 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SangPK34/SangPk34/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+### 👁️ Visitor Counter
+<br>
+<p align="center">
+  <img src="https://count.getloli.com/@SangPK34?theme=minecraft&padding=4" alt="Visitor Count" height="45" />
+</p>
+<br>
 
-<h1 align="center"><i>Data Hugs, Not Bugs</i> 🤓</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=20&duration=3000&pause=800&color=C92300&center=true&vCenter=true&width=900&cursor=_&lines=Data+Hugs,+Not+Bugs+%3E.%3C" />
+</p>
